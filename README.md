@@ -58,19 +58,19 @@
 
 -   회원가입, 로그인, 감정테스트
 
-        <img src="exec/로그인.gif">
+        <img src="exec/login.gif">
         
 -   메인페이지
 
-        <img src="exec/메인페이지.gif">
+        <img src="exec/main.gif">
 
 -   유저검색 및 피드
 
-        <img src="exec/검색.gif">
+        <img src="exec/search.gif">
 
 -   실시간 알림 및 설정
 
-        <img src="exec/설정.gif">
+        <img src="exec/set.gif">
 
 
 
