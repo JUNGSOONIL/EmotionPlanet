@@ -32,7 +32,10 @@
 | 용도      | 스택                                                                                                                                                                                                           | 버전  |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | 코드 편집 | <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white">                                                                                       | v1.64 |
+| 서버 설계         | <img src="https://img.shields.io/badge/Spring-339933?style=plastic&logo=Spring&logoColor=white"> | sts-3.9.14.RELEASE |
+| 배포서버          | <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon%20AWS&logoColor=white"> |        
 | DB        | <img src="https://img.shields.io/badge/MySQL-FFCA28?style=plastic&logo=MySQL&logoColor=white">                                                                                                              |       |
+| UI 개발           | <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white"> |                    |
 | 형상관리  | <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">                                                                                                                     |       |
 | 협업      | <img src="https://img.shields.io/badge/Jira Software-0052CC?style=plastic&logo=Jira Software&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"> |       |
 
