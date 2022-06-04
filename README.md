@@ -58,19 +58,22 @@
 
 -   회원가입, 로그인, 감정테스트
 
-        <img src="exec/login.gif">
+       ![login](https://user-images.githubusercontent.com/88392868/171982162-e68359c3-3ca6-49cb-9067-cd99f6b47940.gif)
+
         
 -   메인페이지
 
-        <img src="exec/main.gif">
+       <img src="exec/main.gif">
 
 -   유저검색 및 피드
 
-        <img src="exec/search.gif">
+       ![search](https://user-images.githubusercontent.com/88392868/171982260-f6cb2834-5cca-407a-bfa8-c40091089f81.gif)
+
 
 -   실시간 알림 및 설정
 
-        <img src="exec/set.gif">
+       ![set](https://user-images.githubusercontent.com/88392868/171982282-86304238-e33f-4a6c-a843-323161172f71.gif)
+
 
 
 
