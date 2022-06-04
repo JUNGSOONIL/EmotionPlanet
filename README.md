@@ -19,8 +19,6 @@
 
 📜 [노션](https://ionized-sugar-931.notion.site/B-Noty-cf7e5b4f43754c178652ae2f23698852)
 
-📷 [UCC](exec/ucc.mp4)
-
 -   기획 내용
     - 사용자에게 로그인 시 감정테스트를 제공 
     - 테스트로 유추한 감정 결과를 토대로 SNS서비스에 이용될 태그 제공
